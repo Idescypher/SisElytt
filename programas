@@ -1,0 +1,10 @@
+terminal: alacritty
+addons:
+  - ranger: buscador ejecutador de archivos
+  - neofetch: muestra el datos del equipo
+  - htop: muestra los programas en ejecución
+  - ncdu: lista los directorios por el que mas ocupa
+  - cmatrix
+  - man-db: whatis, actualizar la base de datos (sudo man)
+estilo:
+  - 
