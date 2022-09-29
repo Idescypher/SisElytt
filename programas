@@ -7,4 +7,6 @@ addons:
   - cmatrix
   - man-db: whatis, actualizar la base de datos (sudo man)
 estilo:
+  - font=iosvka: https://typeof.net/Iosevka/
+  - picom: transparencia y blur
   - 
